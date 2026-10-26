@@ -161,7 +161,7 @@ npm run format
 
 ## License
 
-MIT © [Dhruv Jain](https://maddhruv.dev)
+MIT © [Dhruv Jain](https://dhruvjainin.com)
 
 ## Contributing
 
@@ -216,8 +216,8 @@ We welcome contributions to `object-dot-ts`! Here's how you can help:
 
 ## Author
 
-- 🌐 [maddhruv.dev](https://maddhruv.dev)
-- 🐙 [@maddhruv on GitHub](https://github.com/maddhruv)
+- 🌐 [dhruvjainin.com](https://dhruvjainin.com)
+- 🐙 [@dhruvjainin on GitHub](https://github.com/dhruvjainin)
 
 ## Repository
 
